@@ -1,9 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/76mHqLr5)
-# Description
-You can Use 2 more custom command .
- "help": it gives brief introduction to what all the commands do .
- "exit": you can use this to exit the terminal too , also 'CTRL + C'  will work too.
-# Linux Shell Replica
+# Custom C-Shell - Linux Shell Replica
 
 This project is a comprehensive replication of a Unix-like shell, also known as a command-line interface or terminal. It closely emulates the behavior and appearance of traditional shells while extending their capabilities with a range of features.
 
@@ -95,6 +90,13 @@ The `iMan` command is a helpful addition to this shell, allowing users to access
 
 The `neonate` command is a powerful feature that simplifies repetitive tasks by allowing users to create and execute custom scripts within the shell. It enhances the shell's scripting capabilities and empowers users to automate complex workflows.
 
+### help
+
+The `help` command gives a brief introduction to what all the commands do.
+
+### exit
+
+It can be simply used to exit the terminal.
 
 ### Additional Commands
 
