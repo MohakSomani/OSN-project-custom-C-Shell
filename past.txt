@@ -1,0 +1,3 @@
+warp ..
+iMan dup
+exit
