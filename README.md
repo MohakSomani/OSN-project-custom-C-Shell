@@ -2,6 +2,8 @@
 
 This project is a comprehensive replication of a Unix-like shell, also known as a command-line interface or terminal. It closely emulates the behavior and appearance of traditional shells while extending their capabilities with a range of features.
 
+[Demo Video](https://youtu.be/NbzjM1sGjMg?si=9jH6aiH1SZDtmAbt)
+
 ## Prompt
 
 The shell prompt closely follows the format of a Unix-like shell, providing a user-friendly interface. It appears as `<username@system_name:curr_dir>`, dynamically updating to reflect the current working directory.
